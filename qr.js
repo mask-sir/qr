@@ -13,6 +13,7 @@ const {
 	jidNormalizedUser,
 	Browsers,
 	delay,
+	fetchLatestBaileysVersion,
 	makeInMemoryStore,
 } = require("@whiskeysockets/baileys");
 
