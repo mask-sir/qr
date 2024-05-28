@@ -10,6 +10,7 @@ const {
     useMultiFileAuthState,
     delay,
     Browsers,
+    fetchLatestBaileysVersion,
     makeCacheableSignalKeyStore
 } = require("@whiskeysockets/baileys");
 
